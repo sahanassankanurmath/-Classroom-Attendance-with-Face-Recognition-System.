@@ -70,6 +70,9 @@
 #         print(str(imgcounter) + " Images Trained", end="\r")
 #         time.sleep(0.008)
 #         imgcounter += 1
+#New file File 
+#
+#
 
 import os
 import time
