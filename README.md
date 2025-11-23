@@ -3,6 +3,7 @@ Face recognition systems are part of facial image processing applications and th
 
 
 Follow the below instruction to execute the code:
+
 1.Install Required Packages:
         Ensure that all the necessary packages listed in the requirements.txt file are installed.
         Use the command pip install -r requirements.txt to install all dependencies simultaneously.
